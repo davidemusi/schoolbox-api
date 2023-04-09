@@ -9,7 +9,7 @@ To get started with SchoolBox API, follow these steps:
 2. Install dependencies: pip install -r requirements.txt
 3. Create a .env file based on the .env.example file and set your environment variables
 4. Start the server: python runserver.py
-5. The server should now be running on http://localhost:5000. You can test the API using a tool like Postman or insomnia. Better stil you can checkout the live API hosted at https://skulbox.herokuapp.com
+5. The server should now be running on http://localhost:5000. You can test the API using a tool like Postman or insomnia. Better still you can checkout the live API hosted at https://skulbox.herokuapp.com
 
 # API Endpoints
 
